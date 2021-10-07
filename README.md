@@ -1,6 +1,6 @@
 # Projeto 'Jogo de memória Genius' :video_game: :technologist:
 
-Jogo inspirado no jogo Genius usando:
+Projeto inspirado no jogo Genius usando:
 * HTML, 
 * JavaScript,
 * CSS.
